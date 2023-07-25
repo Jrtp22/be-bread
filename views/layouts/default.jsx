@@ -20,7 +20,7 @@ function Default(html) {
                 <link rel="stylesheet" href="/main.css" />
             </head>
             <body>
-                <h1>HTML Rendered!</h1>
+                <h1>Breads!</h1>
                 <div className='container'>{html.children}</div>
             </body>
         </html>

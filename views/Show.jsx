@@ -19,8 +19,8 @@ function Show({ bread }) {
             </p>
             <img src={bread.image} alt={bread.name} />
             <li>
-                <a href='/places'>
-                    <button className='btn-primary'>Places Page</button>
+                <a href='/breads'>
+                    <button className='btn-primary' >Bread Page</button>
                 </a>
             </li>
         </Default>
